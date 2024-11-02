@@ -1,4 +1,4 @@
-## :construction: This repo is under construction will be completed after 10/11/2024 :Construction:
+## :construction: This repo is under construction will be completed after 10/11/2024 🚧
 
 # Current Mirror Circuit Using Skywater 130pdk
 This project simulates the designed Current Mirror Circuit to determine its performance characterisitics pre-layout and post-layout. 
